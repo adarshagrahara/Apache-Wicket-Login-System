@@ -1,6 +1,6 @@
-# Apache Wicket Authentication and Authorization Example
+# Apache Wicket Authentication and Authorization 
 
-- Apache Wicket (1.5.8, example for Apache Wicket 6 you can find [here](https://github.com/Bessonov/wicket-6-example))
+- Apache Wicket (1.5.8)
 - Jetty (8.1.7)
 - Hibernate (4.1.7, hsqldb is default and mysql example config is included)
 - Spring (3.1.2)
